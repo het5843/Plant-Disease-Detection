@@ -1,1 +1,1 @@
-# hetdhaduk
+# Plant Disease Detection
